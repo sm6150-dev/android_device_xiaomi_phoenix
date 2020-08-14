@@ -49,4 +49,7 @@
     <string translatable="false" name="config_mainBuiltInDisplayCutoutRectApproximation">
         M 0,0 H -236 V 95 H 0 V 0 Z@right
     </string>
+
+    <!-- Height of the status bar -->
+    <dimen name="status_bar_height_portrait">99px</dimen>
 </resources>
